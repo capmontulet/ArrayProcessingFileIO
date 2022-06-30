@@ -8,17 +8,6 @@ import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * This class contains the dynamically allocated array and it's processing
- * Student Name: Thomas Stanley
- * Student Number: 41037136  
- * Section #: 301
- * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD. 
- * 
- */
 public class Numbers {
 	
 	//creates scanner object
